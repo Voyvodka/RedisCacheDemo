@@ -25,7 +25,7 @@ Bu proje, Redis entegrasyonunu ve önbellekleme stratejilerini sergilemek için 
 
 ```bash
 git clone https://github.com/voyvodka/RedisCacheDemo.git
-cd redis-cache-demo
+cd RedisCacheDemo
 ```
 
 ### 2. Bağımlılıkları Yükleyin:
